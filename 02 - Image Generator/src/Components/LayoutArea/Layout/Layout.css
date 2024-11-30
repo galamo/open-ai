@@ -1,0 +1,6 @@
+.Layout > hr {
+    background-color: black;
+    height: 3px;
+    border-width: 0;
+}
+

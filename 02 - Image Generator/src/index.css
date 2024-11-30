@@ -1,0 +1,20 @@
+html,
+body,
+#root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+    /* Trusman: */
+    /* background-image: radial-gradient(125% 125% at 50% 10%, #000 40%, #63e 100%); */
+
+    /* Iris: */
+    /* background-image: linear-gradient(pink, orange); */
+
+    /* Nit: */
+    background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
+    background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
+
+    text-align: center;
+}
+

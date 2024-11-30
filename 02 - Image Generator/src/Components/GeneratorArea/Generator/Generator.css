@@ -1,0 +1,17 @@
+.Generator > textarea {
+    width: 600px;
+    height: 100px;
+	font-size: xx-large;
+    box-sizing: border-box;
+}
+
+.Generator > button {
+    width: 600px;
+    font-size: xx-large;
+}
+
+.Generator > img {
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+}

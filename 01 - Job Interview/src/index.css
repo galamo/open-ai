@@ -1,0 +1,10 @@
+html,
+body,
+#div {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    text-align: center;
+    background-image: linear-gradient(black, purple);
+    color: white;
+}

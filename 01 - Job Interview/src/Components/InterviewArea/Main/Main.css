@@ -1,0 +1,7 @@
+.Main {
+	display: flex;
+}
+
+.Main > div:last-child {
+    flex: auto;
+}

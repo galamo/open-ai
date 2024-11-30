@@ -1,0 +1,8 @@
+.Output {
+	border: 1px solid white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: x-large;
+    text-align: left;
+}
